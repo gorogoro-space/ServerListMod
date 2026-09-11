@@ -6,6 +6,9 @@
 
 A Paper plugin (Minecraft) that displays the version name and a two-line MOTD without changing the protocol ID.
 
+# I haven't tested whether it works, but...
+It may work if the conditions of using **Java 21** or earlier and **Paper 26.2** or earlier are met.
+
 # Installation method
 Please place the .jar file in the Paper plugins folder.
 Edit "ServerListMod/config.yml" and run the following command (requires OP privileges).
