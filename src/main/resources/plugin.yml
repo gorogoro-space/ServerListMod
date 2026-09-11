@@ -1,0 +1,11 @@
+name: ServerListMod
+version: 1.0.0
+main: space.gorogoro.serverlistmod.ServerListMod
+description: A plugin displaying the version, a 2-line MOTD, without changing the protocol ID.
+author: kubotan
+website: https://www.gorogoro.space/
+
+commands:
+  slm:
+    description: Reload the configuration file.
+    usage: /<command> reload

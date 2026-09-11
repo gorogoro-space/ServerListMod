@@ -1,0 +1,13 @@
+# ==========================================================
+# ServerListMod Configuration file 
+# ==========================================================
+
+# Change version names such as "Paper 1.21.4" to the following values.
+version:
+  text: "1.7.2-26.2"
+
+# This setting configures the server list description (MOTD).
+# You can use vanilla color codes (formatting codes).
+motd:
+  line1: "Welcome! To the multi-version server!"
+  line2: "[1.7.2 - 26.2] Reloadable on the fly."
