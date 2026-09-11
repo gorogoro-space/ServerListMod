@@ -1,6 +1,6 @@
 # ServerListMod
 [![Paper 1.21.4](https://img.shields.io/badge/Paper-1.21.4-brightgreen.svg)](https://fill-ui.papermc.io/projects/paper/version/1.21.4)
-[![GitHub release](https://img.shields.io/github/release/gorogoro-space/ServerListMod.svg)](https://github.com/gorogoro-space/ServerListMod/releases/tag/v1.0.0)
+[![GitHub release](https://img.shields.io/github/release/gorogoro-space/ServerListMod.svg)](https://github.com/gorogoro-space/ServerListMod/releases)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/gorogoro-space/ServerListMod/issues)
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://github.com/gorogoro-space/ServerListMod/blob/main/LICENSE)
 
