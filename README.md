@@ -20,3 +20,6 @@ Edit "ServerListMod/config.yml" and run the following command (requires OP privi
 
 # Disclaimer
 Do not assume any responsibility by use. Please use it at your own risk.
+
+# PaperMC URL
+https://hangar.papermc.io/kubotan/ServerListMod
